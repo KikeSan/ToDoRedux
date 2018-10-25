@@ -1,9 +1,9 @@
-![Image](https://commonmark.org/help/images/favicon.png)
+![Image](https://commonmark.org/help/images/favicon.png){:width="22px"}
 
 # React Redux - To Do App
 
-Este es un ejemplo de
-You can see the demo right here: [https://react-redux-to-do-app.netlify.com/](https://react-redux-to-do-app.netlify.com/)
+Este es un ejemplo de aplicación usando redux
+[Ver Demo:](https://react-redux-to-do-app.netlify.com/)
 
 Just run:
 
