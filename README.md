@@ -1,4 +1,4 @@
-![Image](https://commonmark.org/help/images/favicon.png =22x)
+<img src="https://commonmark.org/help/images/favicon.png" width="22"/>
 
 # React Redux - To Do App
 
